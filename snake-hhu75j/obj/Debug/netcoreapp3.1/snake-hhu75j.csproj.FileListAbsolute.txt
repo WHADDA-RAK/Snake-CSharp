@@ -1,0 +1,16 @@
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\bin\Debug\netcoreapp3.1\snake-hhu75j.exe
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\bin\Debug\netcoreapp3.1\snake-hhu75j.deps.json
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\bin\Debug\netcoreapp3.1\snake-hhu75j.runtimeconfig.json
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\bin\Debug\netcoreapp3.1\snake-hhu75j.runtimeconfig.dev.json
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\bin\Debug\netcoreapp3.1\snake-hhu75j.dll
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\bin\Debug\netcoreapp3.1\snake-hhu75j.pdb
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.csproj.AssemblyReference.cache
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake_hhu75j.Form1.resources
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.csproj.GenerateResource.cache
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.GeneratedMSBuildEditorConfig.editorconfig
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.AssemblyInfoInputs.cache
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.AssemblyInfo.cs
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.csproj.CoreCompileInputs.cache
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.dll
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.pdb
+F:\!!órák\6 felev\c# alapok\snake-hhu75j\snake-hhu75j\obj\Debug\netcoreapp3.1\snake-hhu75j.genruntimeconfig.cache
